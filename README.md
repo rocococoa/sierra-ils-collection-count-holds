@@ -7,6 +7,11 @@
 
 **Impact:** Delivers a weekly automated report of trending titles to help Collection Development Librarians easily assess and optimize inventory levels.
 
+## Features and Deliverables
+
+**Automated Email:**
+<img width="975" height="690" alt="High Count Holds Email" src="https://github.com/user-attachments/assets/0f1a392f-848e-474a-86b5-e17296e9e5c6" />
+
 ## Data Pipeline Architecture
 This repository features an automated data pipeline that generates, formats, and distributes Excel reports via email. The system integrates Windows Task Scheduler, a Batch script, SQL, and Python to handle the end-to-end workflow without manual intervention. The automated process is fully productionized within a Windows environment.
 
