@@ -12,6 +12,12 @@
 **Automated Email:**
 <img width="975" height="690" alt="High Count Holds Email" src="https://github.com/user-attachments/assets/0f1a392f-848e-474a-86b5-e17296e9e5c6" />
 
+**Excel Report:**
+<img width="1168" height="934" alt="High-Count-Holds" src="https://github.com/user-attachments/assets/715b98e2-2ae1-4446-a84c-99746e655080" />
+
+<img width="1055" height="927" alt="High-Count-Holds" src="https://github.com/user-attachments/assets/89fee904-537f-435e-a32a-3f444c31c6d0" />
+
+
 ## Data Pipeline Architecture
 This repository features an automated data pipeline that generates, formats, and distributes Excel reports via email. The system integrates Windows Task Scheduler, a Batch script, SQL, and Python to handle the end-to-end workflow without manual intervention. The automated process is fully productionized within a Windows environment.
 
